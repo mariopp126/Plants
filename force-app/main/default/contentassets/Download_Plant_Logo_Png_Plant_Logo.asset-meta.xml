@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isVisibleByExternalUsers>false</isVisibleByExternalUsers>
+    <language>en_US</language>
+    <masterLabel>Download_Plant_Logo_Png_Plant_Logo</masterLabel>
+    <relationships>
+        <organization>
+            <access>VIEWER</access>
+        </organization>
+    </relationships>
+    <versions>
+        <version>
+            <number>1</number>
+            <pathOnClient>Download_Plant_Logo_Png_-_Plant_Logo_Transparent_Clipart___4118607__-_PinClipart-removebg-preview.png</pathOnClient>
+        </version>
+    </versions>
+</ContentAsset>
